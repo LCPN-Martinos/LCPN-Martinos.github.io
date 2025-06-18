@@ -1,0 +1,90 @@
+---
+title: Transcriptional landscape of the prenatal human brain
+authors:
+- Miller JA
+- Ding SL
+- Sunkin SM
+- Smith KA
+- Ng L
+- Szafer A
+- Ebbert A
+- Riley ZL
+- Royall JJ
+- Aiona K
+- Arnold JM
+- Bennet C
+- Bertagnolli D
+- Brouner K
+- Butler S
+- Caldejon S
+- Carey A
+- Cuhaciyan C
+- Dalley RA
+- Dee N
+- Dolbeare TA
+- Facer BA
+- Feng D
+- Fliss TP
+- Gee G
+- Goldy J
+- Gourley L
+- Gregor BW
+- Gu G
+- Howard RE
+- Jochim JM
+- Kuan CL
+- Lau C
+- Lee CK
+- Lee F
+- Lemon TA
+- Lesnar P
+- McMurray B
+- Mastan N
+- Mosqueda N
+- Naluai-Cecchini T
+- Ngo NK
+- Nyhus J
+- Oldre A
+- Olson E
+- Parente J
+- Parker PD
+- Parry SE
+- Stevens A
+- Pletikos M
+- Reding M
+- Roll K
+- Sandman D
+- Sarreal M
+- Shapouri S
+- Shapovalova NV
+- Shen EH
+- Sjoquist N
+- Slaughterbeck CR
+- Smith M
+- Sodt AJ
+- Williams D
+- Zöllei L
+- Fischl B
+- Gerstein MB
+- Geschwind DH
+- Glass IA
+- Hawrylycz MJ
+- Hevner RF
+- Huang H
+- Jones AR
+- Knowles JA
+- Levitt P
+- Phillips JW
+- Sestan N
+- Wohnoutka P
+- Dang C
+- Bernard A
+- Hohmann JG
+- Lein ES.
+date: '2014-01-01'
+publishDate: '2025-06-18T17:49:51.598555Z'
+publication_types:
+- article-journal
+publication: '*Nature*'
+doi: 10.1038/nature13185
+---
