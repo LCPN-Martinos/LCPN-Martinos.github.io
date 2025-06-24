@@ -10,6 +10,10 @@ last_name: Huszar
 authors:
   - ihuszar
 
+paper_author_aliases:
+  - Zollei L
+  - ihuszar
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -66,6 +70,26 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Research Fellows
+
+sections:  
+  - block: collection
+    content:
+      title: Recent Publications
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: card
+      columns: '1'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue ex mi, id porta magna efficitur a. Sed iaculis justo non faucibus convallis. Sed vehicula dignissim erat sed vehicula. Sed et bibendum erat. Nam pretium, mauris ut accumsan vestibulum, risus sapien accumsan ante, ut laoreet quam odio in lectus. Cras quis orci vitae augue condimentum egestas vel nec risus. Interdum et malesuada fames ac ante ipsum primis in faucibus.

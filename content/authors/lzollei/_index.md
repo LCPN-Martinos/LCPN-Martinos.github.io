@@ -8,7 +8,11 @@ last_name: Zollei
 
 # Username (this should match the folder name)
 authors:
-  - lzollei
+  - 'lzollei'
+
+paper_author_aliases:
+  - 'Zöllei L'
+  - 'Zollei L' 
 
 # Is this the primary user of the site?
 superuser: true

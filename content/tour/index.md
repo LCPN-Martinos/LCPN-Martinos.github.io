@@ -45,7 +45,7 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '33vh'
+      slide_height: '50vh'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: true
@@ -63,6 +63,23 @@ sections:
         
         The **LCPN** is a subgroup within the Labratory for Computational Neuroimaging at the Athinoula A. Martinos Center at MGH. We are focused on
         the design and development of computational tools that are capable of processing and exploring perinatal neurodevelopment.
+  
+  - block: collection
+    content:
+      title: Recent Publications
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: card
+      columns: '1'
 ---
-
-test

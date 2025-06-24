@@ -22,7 +22,7 @@ sections:
       title: Recent Publications
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -78,5 +78,3 @@ sections:
     design:
       columns: '1'
 ---
-
-Test Test Test
