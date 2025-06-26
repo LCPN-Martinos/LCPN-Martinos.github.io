@@ -20,7 +20,7 @@ Add your paper to `publications.bib` in BibTex format. When you push the edited 
 
 ## Publications displayed on personal page
 
-under content/authors/\<your_folder\>/_index.md add your name under the "paper_author_aliases" key as it appears on publications for it to be properly parsed and displayed. 
+under `content/authors/\<your_folder\>/_index.md` add your name under the "paper_author_aliases" key as it appears on publications for it to be properly parsed and displayed. 
 
 ## Add a lab member or edit their classification
 
