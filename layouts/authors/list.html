@@ -31,18 +31,18 @@
             {{ end }}
         {{ end }}
     {{ end }}
-    {{ $count := len $query }}
+    {{ $count := len $profile_pubs }}
     {{ if $count }}
-    <div class="article-widget content-widget-hr">
-      <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
-      <ul>
-        {{ range $profile_pubs }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </li>
-        {{ end }}
-      </ul>
-    </div>
+      <div class="article-widget content-widget-hr">
+        <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+        <ul>
+          {{ range $profile_pubs }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
     {{ end }}
   </div>
 </section>

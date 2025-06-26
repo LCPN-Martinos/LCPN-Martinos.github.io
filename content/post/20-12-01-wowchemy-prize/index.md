@@ -1,9 +1,10 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Latest News Incoming!
 date: 2020-12-01
+authors: [' ']
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 <!--more-->
 

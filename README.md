@@ -11,7 +11,12 @@ To change your profile picture edit the avatar.jpeg file in the respective folde
 
 ## Add publications to the site
 
-Add your paper to `publications.bib` in BibTex format. When you push the edited file, a PR will be created through GitHub actions. Accept and merge this PR for the new pages to be created under `content/publication`. If relevant you can add an image to the publications folder, or add a pdf and it will be linked on the site.
+Add your paper to `publications.bib` in BibTex format. When you push the edited file, a PR will be created through GitHub actions. Accept and merge this PR for the new pages to be created under `content/publication`. 
+
+- add a pdf (optional)
+    - after the paper's folder is created and merged into `content/publication`, add a pdf file with the same name as the folder to the folder
+- add an image (optional)
+    - after the paper's folder is created and merged into `content/publication`, add a featured.jpg to the folder 
 
 ## Publications displayed on personal page
 
@@ -75,3 +80,24 @@ New publications are automatically processed using **GitHub Actions**. To add a 
 1. Add the BibTeX entry for your latest publication to `publications.bib`.
 2. Submit a **Pull Request** with the updated `publications.bib` file.
 3. Once merged, GitHub Actions will generate a new directory under [`content/publication`](content/publication).
+
+## TODO
+
+1. Complete Profiles
+    - Pictures
+    - Overview Paragraph
+    - Interests
+
+2. Add publications to top level publications.bib
+
+3. Update Contact Page
+
+4. Add News/Updates for News articles
+
+5. Select Icon for favicon
+
+6. Images
+    - Home Page image
+    - Contact page image (optional, can remove)
+
+7. Updated About blurb

@@ -10,7 +10,7 @@ sections:
       title: |
         Labratory for Computational Perinatal Neuroimaging
       image:
-        filename: welcome.jpg
+        filename: lab_pic_early2025.jpg
       text: |
         <br>
         
