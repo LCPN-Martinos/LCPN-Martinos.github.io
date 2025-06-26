@@ -1,7 +1,7 @@
 # LCPN-MGH.github.io
 
 ## Edit the main page
-
+The About page is defined under `content/_index.md` using hugo blocks. Add or remove them as required to modify the information shown
 
 ## Edit your personal page
 
