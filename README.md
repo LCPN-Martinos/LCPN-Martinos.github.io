@@ -1,5 +1,27 @@
 # LCPN-MGH.github.io
 
+## TODO
+
+1. Complete Profiles
+    - Pictures
+    - Overview Paragraph
+    - Interests
+
+2. Add News/Updates for News articles
+
+3. Add publications to top level publications.bib
+
+4. Update Contact Page
+
+5. Select Icon for favicon
+
+6. Images
+    - Home Page image - DONE
+    - Contact page image - DONE
+    - favicon (icon for tab image)
+
+7. Updated About blurb
+
 ## Edit the main page
 The About page is defined under `content/_index.md` using hugo blocks. Add or remove them as required to modify the information shown
 
@@ -47,23 +69,3 @@ under `content/authors/\<your_folder\>/_index.md` add your name under the "paper
 4. add any other information below the set of ---
 5. add a featured.jpg to the page's folder for an image to be displayed
 
-## TODO
-
-1. Complete Profiles
-    - Pictures
-    - Overview Paragraph
-    - Interests
-
-2. Add publications to top level publications.bib
-
-3. Update Contact Page
-
-4. Add News/Updates for News articles
-
-5. Select Icon for favicon
-
-6. Images
-    - Home Page image
-    - Contact page image (optional, can remove)
-
-7. Updated About blurb

@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '42.377279'
         longitude: '-71.052403'
-      directions: To get to the Martinos center via shuttle, refer to the [MGH shuttle schedules](https://www.massgeneralbrigham.org/en/patient-care/patient-visitor-information/planning-your-visit/shuttles#accordion-7e7077113a-item-8416cd8c6d). The Massachusetts General Hospital to Main Campus, North Station, One Constitution Road, Charlestown Navy Yard shuttle starts at the Jackson Building doors at MGH main campus, and ends its loop at the Martinos Center. Our lab is located on the 10th floor. 
+      directions: To get to the Martinos center via shuttle, refer to the [MGH shuttle schedules](https://www.massgeneralbrigham.org/en/patient-care/patient-visitor-information/planning-your-visit/shuttles#accordion-7e7077113a-item-8416cd8c6d). The Massachusetts General Hospital to Main Campus, North Station, One Constitution Road, Charlestown Navy Yard shuttle starts at the Jackson Building doors at MGH main campus, and ends its loop at the Martinos Center. Our group works on the 10th floor, which can be reached by using the North Elevators. 
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
@@ -47,23 +47,23 @@ sections:
     design:
       columns: '1'
 
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: #contact.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: contact.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---
