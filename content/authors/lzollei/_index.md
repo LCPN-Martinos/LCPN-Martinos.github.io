@@ -22,25 +22,26 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Boston Children's Hospital (P.E. Grant, MD)
+  - name: A.A. Martinos Center; Massachusetts General Hospital / Harvard Medical School
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: Principal Investigator at the LCPN
 
 interests:
-  - Pediatric MRI 
+  - Perinatal neuroimaging
+  - Human brain development 
   - Deep Learning
   - Algorithm Development
   - Multimodal Imaging
-  - Perinatal Imaging
+  - Invivo Imaging
   - Postmortem Imaging
   - SIDS
   - Freesurfer
 
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Electircal Engineering and Computer Science
       institution: Massachusetts Institute of Technology (MIT)
 
 # Social/Academic Networking
@@ -50,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lzollei@nmr.mgh.harvard.edu'
+    link: 'mailto:lzollei@mgh.harvard.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
