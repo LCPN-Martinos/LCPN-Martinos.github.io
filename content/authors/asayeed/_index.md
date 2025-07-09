@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Alumni
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue ex mi, id porta magna efficitur a. Sed iaculis justo non faucibus convallis. Sed vehicula dignissim erat sed vehicula. Sed et bibendum erat. Nam pretium, mauris ut accumsan vestibulum, risus sapien accumsan ante, ut laoreet quam odio in lectus. Cras quis orci vitae augue condimentum egestas vel nec risus. Interdum et malesuada fames ac ante ipsum primis in faucibus.

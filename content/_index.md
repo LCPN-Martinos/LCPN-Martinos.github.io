@@ -35,6 +35,33 @@ sections:
     design:
       view: card
       columns: '1'
+
+  - block: slider
+    content:
+      slides:
+      - title: Support Our Mission 
+        content: 
+        align: center# right
+        background:
+          image:
+            filename: donate.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: gift
+          icon_pack: fas
+          text: Donate
+          url: https://giving.massgeneral.org/donate?is_designation=1&designation=Lilla%20Zollei
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '50vh'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 10000
   
   # - block: markdown
   #   content:
