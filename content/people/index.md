@@ -44,7 +44,7 @@ sections:
         - Doen van Leemput
         - Roxane Licandro
         - Caroline Magnain
-        - Hui Wang, 
+        - Hui Wang 
         - Andre van der Kouwe
         - Jean Augustinack
         - Bruce Fischl
