@@ -14,8 +14,8 @@ sections:
       text: |
         <br>
         
-        The **LCPN** is a subgroup within the Labratory for Computational Neuroimaging at the Athinoula A. Martinos Center at MGH. We are focused on
-        the design and development of computational tools that are capable of processing and exploring perinatal neurodevelopment.
+        The **LCPN** is part of the Labratory for Computational Neuroimaging at the Athinoula A. Martinos Center at MGH. We are focused on
+        the design and development of computational tools that are capable of processing and exploring perinatal neurodevelopment. Our projects cover both in vivo and ex vivo imaging efforts. 
   
   - block: collection
     content:
@@ -39,7 +39,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Support Our Mission 
+      - title: Support Our Research 
         content: 
         align: center# right
         background:
