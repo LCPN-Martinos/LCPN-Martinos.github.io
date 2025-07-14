@@ -27,8 +27,8 @@ bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 interests:
   - Deep Learning
-  - Computer Vision
   - Neuroimaging
+  - Water Polo
 
 education:
   courses:
@@ -71,9 +71,9 @@ user_groups:
   - Software Engineers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue ex mi, id porta magna efficitur a. Sed iaculis justo non faucibus convallis. Sed vehicula dignissim erat sed vehicula. Sed et bibendum erat. Nam pretium, mauris ut accumsan vestibulum, risus sapien accumsan ante, ut laoreet quam odio in lectus. Cras quis orci vitae augue condimentum egestas vel nec risus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+Ashvath works on various software engineering and data management efforts at the LCPN. His projects have included standardizing large imaging datasets to make them easier to work with, and configuring, training, and evaluating deep learning models with infant MR data.
 
-Sed a sagittis justo. Nunc at nunc eget diam maximus mattis quis et augue. Donec vitae luctus sapien. Sed condimentum mattis nisi sed gravida. Aenean placerat arcu quis lacus facilisis sollicitudin. Nam venenatis consequat ligula, eu gravida lacus. Nulla mollis sem ac est eleifend, nec lacinia quam auctor. Morbi at ex laoreet, rhoncus nisl at, efficitur tellus. Maecenas sit amet suscipit erat. Aenean tristique tortor non urna luctus, nec bibendum nibh ornare.
+Ashvath has a background in Computer Science and Bioinformatics, and is interested in developing software and machine learning algorithms for use in neuroimaging and further clinical applications. 
 
 
 

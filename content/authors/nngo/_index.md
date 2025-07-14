@@ -10,6 +10,9 @@ last_name: Ngo
 authors:
   - nngo
 
+paper_author_aliases:
+  - 'Ngo N'
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -25,9 +28,9 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 interests:
-  - Running
-  - Marvel Rivals
   - Neuroimaging
+  - Running
+  - Authentic Phở Connoisseur
 
 education:
   courses:
@@ -66,8 +69,8 @@ user_groups:
   - Research Assistants
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue ex mi, id porta magna efficitur a. Sed iaculis justo non faucibus convallis. Sed vehicula dignissim erat sed vehicula. Sed et bibendum erat. Nam pretium, mauris ut accumsan vestibulum, risus sapien accumsan ante, ut laoreet quam odio in lectus. Cras quis orci vitae augue condimentum egestas vel nec risus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-Sed a sagittis justo. Nunc at nunc eget diam maximus mattis quis et augue. Donec vitae luctus sapien. Sed condimentum mattis nisi sed gravida. Aenean placerat arcu quis lacus facilisis sollicitudin. Nam venenatis consequat ligula, eu gravida lacus. Nulla mollis sem ac est eleifend, nec lacinia quam auctor. Morbi at ex laoreet, rhoncus nisl at, efficitur tellus. Maecenas sit amet suscipit erat. Aenean tristique tortor non urna luctus, nec bibendum nibh ornare.
+Nathan has many different functions in his role as a research assistant at the LCPN. He helps to organize proper paperwork and documents as well as integrating 3rd party brain processing tools into the LCPN computer cluster. These tools are mostly for in-vivo brain samples, and he also helps troubleshoot local ex-vivo processing tools.
+ 
+In the wet lab, Nathan is trained to properly store and prepare brain samples for MRI scanning. He is certified to scan brains in 3T and 7T scanners and the types of scans that Nathan processes are mostly infant/fetal. These scans consist of diffusion as well as structural scans which are useful to visualize the white matter tracts in the brainstem and cortical regions of the brain. Processing on these scans are currently being used in an Ontogeny project that summarizes the connectivity of brain regions across age groups.
 
 
