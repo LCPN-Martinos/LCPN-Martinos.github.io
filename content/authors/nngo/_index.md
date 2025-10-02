@@ -29,8 +29,6 @@ bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 interests:
   - Neuroimaging
-  - Running
-  - Authentic Phở Connoisseur
 
 education:
   courses:

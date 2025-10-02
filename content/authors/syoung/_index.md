@@ -24,9 +24,6 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 interests:
-  - Hamilton
-  - Sonny Angels
-  - Water Polo
   - Neuroimaging
 
 education:

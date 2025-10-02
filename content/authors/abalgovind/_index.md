@@ -28,7 +28,6 @@ bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 interests:
   - Deep Learning
   - Neuroimaging
-  - Water Polo
 
 education:
   courses:
