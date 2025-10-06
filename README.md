@@ -24,6 +24,24 @@ Add your paper to `publications.bib` in BibTex format. When you push the edited 
 
 under `content/authors/\<your_folder\>/_index.md` add your name under the "paper_author_aliases" key as it appears on the bibtex for the publication for it to be properly parsed and displayed.
 - for example, if your name appears as D. White in some papers but Derrick W. on other, add both under the paper_author_aliases section 
+```
+*content/authors/dwhite/_index.md*:
+---
+# Display name
+title: Derrick White
+
+# Full name (for SEO)
+first_name: Derrick
+last_name: White
+
+# Username (this should match the folder name)
+authors:
+  - 'dwhite'
+
+paper_author_aliases:
+  - 'Derrick W'
+  - 'D White' 
+```
 
 ## Add a lab member or edit their classification
 
