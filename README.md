@@ -7,7 +7,7 @@ The About page is defined under `content/_index.md` using hugo blocks. Add or re
 
 ## Edit your personal page
 
-Personal page content can be edited under content/authors/\<your_folder\>_index.md. There are predefined fields to fill out between the two --- lines, and any other information you want on your page can be added under the second --- line in markdown format.
+Personal page content can be edited under content/authors/\<your_folder\>_index.md. There are predefined fields to fill out between the two --- lines, and your about me blurb can be added under the second --- line in markdown format.
 
 To change your profile picture edit the avatar.jpeg file in the respective folder
 
