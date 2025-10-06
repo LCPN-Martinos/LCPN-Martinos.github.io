@@ -2,26 +2,6 @@
 
 ## TODO
 
-1. Complete Profiles
-    - Pictures
-    - Overview Paragraph
-    - Interests
-
-2. Add News/Updates for News articles
-
-3. Add publications to top level publications.bib
-
-4. Update Contact Page
-
-5. Select Icon for favicon
-
-6. Images
-    - Home Page image - DONE
-    - Contact page image - DONE
-    - favicon (icon for tab image)
-
-7. Updated About blurb
-
 ## Edit the main page
 The About page is defined under `content/_index.md` using hugo blocks. Add or remove them as required to modify the information shown
 
@@ -42,7 +22,8 @@ Add your paper to `publications.bib` in BibTex format. When you push the edited 
 
 ## Publications displayed on personal page
 
-under `content/authors/\<your_folder\>/_index.md` add your name under the "paper_author_aliases" key as it appears on publications for it to be properly parsed and displayed. 
+under `content/authors/\<your_folder\>/_index.md` add your name under the "paper_author_aliases" key as it appears on the bibtex for the publication for it to be properly parsed and displayed.
+    - for example, if your name appears as D. White in some papers but Derrick W. on other, add both under the paper_author_aliases section 
 
 ## Add a lab member or edit their classification
 
