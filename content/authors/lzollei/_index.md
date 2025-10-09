@@ -15,9 +15,7 @@ paper_author_aliases:
   - 'Zollei L'
   - 'Z{\"o}llei, L.'
   - 'Z{\"o}llei, Lilla'
-  - 'FIT'NG'
   - 'Fetal and Infant and and Toddler Neuroimaging Group'
-  - 'FIT’NG Group'
 
 # Is this the primary user of the site?
 superuser: true
