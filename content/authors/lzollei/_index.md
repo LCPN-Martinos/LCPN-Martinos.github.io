@@ -12,7 +12,12 @@ authors:
 
 paper_author_aliases:
   - 'Zöllei L'
-  - 'Zollei L' 
+  - 'Zollei L'
+  - 'Z{\"o}llei, L.'
+  - 'Z{\"o}llei, Lilla'
+  - 'FIT'NG'
+  - 'Fetal and Infant and and Toddler Neuroimaging Group'
+  - 'FIT’NG Group'
 
 # Is this the primary user of the site?
 superuser: true
@@ -37,11 +42,12 @@ interests:
   - Invivo Imaging
   - Postmortem Imaging
   - SIDS
-  - Freesurfer
+  - FreeSurfer
+  - Infant FreeSurfer
 
 education:
   courses:
-    - course: PhD in Electircal Engineering and Computer Science
+    - course: PhD in Electrical Engineering and Computer Science
       institution: Massachusetts Institute of Technology (MIT)
 
 # Social/Academic Networking
