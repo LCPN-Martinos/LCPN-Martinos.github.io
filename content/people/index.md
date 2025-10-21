@@ -32,49 +32,47 @@ sections:
       subtitle: 
       text: | 
         ### Collaborators
-        - Chiara Maffei, PhD \- Postdoctoral Fellow, Dr. Zollei is a Secondary Research Mentor (2020 \- present)
-        - Camilo Enrique Jaimes Cobos, M.D \- (2017 \- present)
-        - Silvina Ferradal, PhD \- Research Fellow, Dr. Zollei is a Collaborator (2015 \- present)
-        - Yangming Ou, PhD \- Postdoctoral Fellow (2013 - 2015)
-        - Ellen Grant
-        - Chris Smyser
-        - Robin Haynes
-        - Hannah Kinney
-        - Martin Reuter
-        - Doen van Leemput
-        - Roxane Licandro
         - Caroline Magnain
         - Hui Wang 
         - Andre van der Kouwe
         - Jean Augustinack
         - Bruce Fischl
+        - Jeremy Schmahmann
+        - Chiara Maffei
+        - Camilo Enrique Jaimes Cobos
+        - Roxane Licandro 
+        - Silvina Ferradal
+        - Ellen Grant
+        - Chris Smyser
+        - Robin Haynes
+        - Hannah Kinney
+        - Martin Reuter
+        - Koen van Leemput
+        
         ### Alumni
-        - Areej Sayeed  \- MS Candidate in Neuroscience at Northwestern (2023 \- 2025)
-        - William Kelley \- Research Assistant (2022 \- 2024)
-        - Dayang (Dylan) Gong \- Research Assistant, Boston College Mental Health Counseling MS (2022 \- 2024)
-        - Natalia Bechtold \- Tufts University undergraduate student (2023)
-        - Raghav Jindal \- MS candidate at Boston University (2023)
-        - Aparna Pillai \- UCLA undergraduate student (2022 \- 2023)
-        - Ream Gebrekidan \- Harvard College undergraduate student, MD candidate at UCLA (2022 \- 2023)
-        - Lionie Henschel \- Research Associate at DZNE, Bonn, Germany (2022)
-        - Seungmyoung Lee \- Branksome Hall High School in Toronto, Canada, BA andidate at Johns Hopkins University (2021 \- 2022)
-        - Roxane Licandro \- Postdoctoral Fellow (2021 - 2022)
-        - Kelly Payette \- Postdoctoral Fellow (2022)
-        - Maitreyee Kulkarni \- Research Assistant, PhD candidate in Cognitive Neuroscience at UT Texas (2021 \- 2022)
+        - Areej Sayeed  \- Research Assistant (2023 \- 2025); Subsequently: MS Candidate in Neuroscience at Northwestern 
+        - William Kelley \- Research Technician (2022 \- 2024); Subsequently: Data Analyst with Dr. Diana Rosas, MGH
+        - Dayang (Dylan) Gong \- Research Assistant (2022 \- 2024); Subsequently: Boston College Mental Health Counseling MS 
+        - Natalia Bechtold \- Graduate Student -- remote; Subsequently: Fulbright Predoctoral Researcher 2025-2026 at the Basque Center on Cognition, Brain and Language
+        - Leonie Henschel \- Visiting Graduate Student (2022); Subsequently: Industry
+        - Seungmyoung Lee \- High School Student -- remote (2021 \- 2022); Subsequently: BA candidate at Johns Hopkins University 
+        - Roxane Licandro \- Postdoctoral Fellow (2021 - 2022); Subsequently: Head of Early Life Image Analysis (ELIA) Group; Medical University of Vienna
+        - Kelly Payette \- Postdoctoral Fellow (2022); Subsequently: Research Associate at the Perinatal Imaging & Health group at King's College London
+        - Maitreyee Kulkarni \- Research Assistant (2021 \- 2022); Subsequently: PhD candidate in Cognitive Neuroscience at UT Texas 
         - Seoyoon Kim \- Harvard College undergraduate student (2020 \- 2022)
         - Allison Chang \- Harvard College undergraduate student (2020 \- 2021)
-        - Samuel Blackman \- Harvard College undergraduate student, MS-PhD candidate at the Ultrasound and Elasticity Imaging Laboratory, Columbia University (2020 \- 2021)
-        - Bo Lan \- Tufts University undergraduate student, Co-op, Biological Sciences, Moderna, M.D. Candidate at Tufts University School of Medicine (2020)
-        - Jieyu Cheng, PhD \- Postdoctoral Fellow (2018 \- 2020)
-        - Louis-Marie Terrier, M.D., M.Sc. \- Neurosurgeon CHRU Tours (Hospital), PhD student at University of Tours (2018 \- 2019)
-        - Emma Boyd \- Research Assistant, PhD candidate in Neuroscience at UC San Diego, Dr. Zollei is a Research Co-Mentor (2018 \- 2019)
+        - Samuel Blackman \- Harvard College undergraduate student (2020 \- 2021); Subsequently: MS-PhD candidate at the Ultrasound and Elasticity Imaging Laboratory, Columbia University 
+        - Bo Lan \- Tufts University undergraduate student, Co-op (2020); Subsequently: Moderna, M.D. Candidate at Tufts University School of Medicine
+        - Jieyu Cheng, PhD \- Postdoctoral Fellow (2018 \- 2020); Subsequently: Canon Medical Informatics and Microsoft
+        - Louis-Marie Terrier, M.D., M.Sc. \- Neurosurgeon CHRU Tours (Hospital), PhD student at University of Tours (2018 \- 2019); Subsequently: Neurosurgeon at the Hôpital Privé Clairval - Marseille
+        - Emma Boyd \- Research Assistant (2018 \- 2019); Subsequenly: PhD candidate in Neuroscience at UC San Diego
         - Luiz Fernando Ferraz da Silva, MD, PhD \- visiting scientist from the University of São Paulo (2015 \- 2017)
         - Maryana de Carvalho Alegro, MSc \- PhD student at the University of São Paulo Polytechnic School, visiting scholar (2013)
         - Priya Lakshmi Narayanan \- PhD student at the University of Cape Town (2012)
-        - Emma BenAvi \- Research Assistant (2011 \- 2013)
-        - Katyucia de Macedo Rodrigues, MD -\ research fellow (2011 \- 2012)
-        - James Kolasinksi \- MD-PhD student at the University of Oxfor, visiting scholar at Harvar College (2011 \- 2012)
-        - Aleksander Petrovic \- D.Phil student at the University of Oxford (2009)
+        - Emma BenAvi \- Research Assistant (2011 \- 2013); Subsequently: Research Coordinator at NYU Langone Health
+        - Katyucia de Macedo Rodrigues, MD -\ research fellow (2011 \- 2012); Subsequently:  
+        - James Kolasinksi \- MD-PhD student at the University of Oxfor, visiting scholar at Harvard College (2011 \- 2012)
+        - Aleksander Petrovic \- D.Phil student at the University of Oxford (2009); Subsequently: Industry
     design:
       columns: '1'
 ---
