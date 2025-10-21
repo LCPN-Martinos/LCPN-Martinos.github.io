@@ -50,6 +50,7 @@ sections:
         - Koen van Leemput
         
         ### Alumni
+	- Renfei Liu \- Postdoctoral Fellow (2023 \- 2025); Subsequently: Postdoctoral Fellow at MGB NeuroAI Center
         - Areej Sayeed  \- Research Assistant (2023 \- 2025); Subsequently: MS Candidate in Neuroscience at Northwestern 
         - William Kelley \- Research Technician (2022 \- 2024); Subsequently: Data Analyst with Dr. Diana Rosas, MGH
         - Dayang (Dylan) Gong \- Research Assistant (2022 \- 2024); Subsequently: Boston College Mental Health Counseling MS 
