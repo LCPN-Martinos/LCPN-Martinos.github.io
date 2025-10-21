@@ -57,7 +57,8 @@ sections:
         - Natalia Bechtold \- Graduate Student -- remote; Subsequently: Fulbright Predoctoral Researcher 2025-2026 at the Basque Center on Cognition, Brain and Language
         - Leonie Henschel \- Visiting Graduate Student (2022); Subsequently: Industry
         - Seungmyoung Lee \- High School Student -- remote (2021 \- 2022); Subsequently: BA candidate at Johns Hopkins University 
-        - Roxane Licandro \- Postdoctoral Fellow (2021 - 2022); Subsequently: Head of Early Life Image Analysis (ELIA) Group; Medical University of Vienna
+        - [Roxane Licandro](https://radiologie-nuklearmedizin.meduniwien.ac.at/en/unsere-abteilungen/computational-imaging-research-lab-cir/computational-imaging-research-lab-team/licandro-roxane/) \- Postdoctoral Fellow (2021 - 2022);
+          -- Subsequently: Head of Early Life Image Analysis (ELIA) Group; Medical University of Vienna
         - Kelly Payette \- Postdoctoral Fellow (2022); Subsequently: Research Associate at the Perinatal Imaging & Health group at King's College London
         - Maitreyee Kulkarni \- Research Assistant (2021 \- 2022); Subsequently: PhD candidate in Cognitive Neuroscience at UT Texas 
         - Seoyoon Kim \- Harvard College undergraduate student (2020 \- 2022)
