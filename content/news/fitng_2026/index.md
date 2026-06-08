@@ -1,10 +1,10 @@
 ---
-title: LCPN will be at OHBM!
+title: LCPN will be at FIT'NG!
 
-event: OHBM 2026
-event_url: https://www.humanbrainmapping.org/OHBM2026/
+event: FITNG 2026
+event_url: https://fitng.org/2026-conference/
 
-location: Bordeaux, France
+location: Panama City, Panama
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,17 +12,17 @@ location: Bordeaux, France
 #   postcode: '94305'
 #   country: United States
 
-summary: Lilla and Sala will be attending OHBM 2026 in person! Excited to meet and share our research with you all in Bordeaux!
+summary: ' ' 
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-06-14'
-date_end: '2026-06-18'
+date: '2026-07-10'
+date_end: '2026-07-11'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-06-04T00:00:00Z'
+publishDate: '2026-06-05T00:00:00Z'
 
 authors: ['']
 tags: []
@@ -52,8 +52,10 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-social:
+
 share: false
 ---
 
-The LCPN will have multiple posters at OHBM 2026 (Young et al, Huszar et al) and Lilla is participating in an educational course about "Open-science in Infant MRI". Our abstracts can be found here: https://abstractatlas.brainkb.org/ohbm2026/
+Join us for the FIT’NG 2026 Annual Conference, taking place July 10-11 at the Hotel El Panama in Panama City. This two-day meeting will bring together researchers and clinicians from around the world to share the latest advances in fetal, infant, and toddler neuroimaging.
+
+The program will feature a keynote lecture, symposia, oral presentations, flash talks, and poster sessions highlighting innovative science across our community. Attendees will have the chance to build meaningful connections and be part of a welcoming community, all set against the backdrop of one of Latin America’s most vibrant cities.

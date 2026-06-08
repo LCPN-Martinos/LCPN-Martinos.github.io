@@ -1,10 +1,10 @@
 ---
-title: LCPN will be at OHBM!
+title: Coast-to-Coast 2026
 
-event: OHBM 2026
-event_url: https://www.humanbrainmapping.org/OHBM2026/
+event: Coast-to-Coast SUDP 2026
+event_url: https://twinharbors.org/
 
-location: Bordeaux, France
+location: Houston, Texas
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,17 +12,17 @@ location: Bordeaux, France
 #   postcode: '94305'
 #   country: United States
 
-summary: Lilla and Sala will be attending OHBM 2026 in person! Excited to meet and share our research with you all in Bordeaux!
+summary: 'Pulkit will present his work on postmortem MRI tissue segmentation and corical reconstruction of the infant brain' 
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-06-14'
-date_end: '2026-06-18'
+date: '2026-03-16'
+date_end: '2026-03-18'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-06-04T00:00:00Z'
+publishDate: '2026-02-01T00:00:00Z'
 
 authors: ['']
 tags: []
@@ -52,8 +52,8 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-social:
+
 share: false
 ---
 
-The LCPN will have multiple posters at OHBM 2026 (Young et al, Huszar et al) and Lilla is participating in an educational course about "Open-science in Infant MRI". Our abstracts can be found here: https://abstractatlas.brainkb.org/ohbm2026/
+Twin Harbors is a partnership between organizations in Houston and Seattle focused on ending sudden, unexplained death. We connect researchers, practitioners, and community leaders to share tools, data, and stories that turn ideas into impact.
