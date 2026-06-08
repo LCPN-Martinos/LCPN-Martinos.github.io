@@ -9,6 +9,8 @@ last_name: Khandelwal
 # Username (this should match the folder name)
 authors:
   - pkhandelwal
+  - 'Pulkit Khandelwal'
+  - 'Khandelwal, Pulkit'
 
 
 # Is this the primary user of the site?
