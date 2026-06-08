@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pulkit Khandelwal
+title: Pulkit Khandelwal 
 
 # Full name (for SEO)
 first_name: Pulkit
@@ -27,7 +27,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+bio: ''
 
 interests:
   - Deep Learning
@@ -55,12 +55,12 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=AVlc6nIAAAAJ&hl=en
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate
+  - icon: github
+    icon_pack: fab
+    link: https://pulkit-khandelwal.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

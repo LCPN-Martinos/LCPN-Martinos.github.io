@@ -56,6 +56,6 @@ projects:
 share: false
 ---
 
-Join us for the FIT’NG 2026 Annual Conference, taking place July 10-11 at the Hotel El Panama in Panama City. This two-day meeting will bring together researchers and clinicians from around the world to share the latest advances in fetal, infant, and toddler neuroimaging.
+Join us for the [FIT’NG 2026 Annual Conference](https://fitng.org/2026-conference/), taking place July 10-11 at the Hotel El Panama in Panama City. This two-day meeting will bring together researchers and clinicians from around the world to share the latest advances in fetal, infant, and toddler neuroimaging.
 
 The program will feature a keynote lecture, symposia, oral presentations, flash talks, and poster sessions highlighting innovative science across our community. Attendees will have the chance to build meaningful connections and be part of a welcoming community, all set against the backdrop of one of Latin America’s most vibrant cities.

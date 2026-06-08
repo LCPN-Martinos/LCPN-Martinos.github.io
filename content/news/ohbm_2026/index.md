@@ -56,4 +56,4 @@ social:
 share: false
 ---
 
-The LCPN will have multiple posters at OHBM 2026 (Young et al, Huszar et al) and Lilla is participating in an educational course about "Open-science in Infant MRI". Our abstracts can be found here: https://abstractatlas.brainkb.org/ohbm2026/
+The LCPN will have multiple posters at [OHBM 2026](https://www.humanbrainmapping.org/OHBM2026/) (Young et al, Huszar et al) and Lilla is participating in an educational course about "Open-science in Infant MRI". Our abstracts can be found here: https://abstractatlas.brainkb.org/ohbm2026/

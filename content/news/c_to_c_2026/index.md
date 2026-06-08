@@ -12,7 +12,7 @@ location: Houston, Texas
 #   postcode: '94305'
 #   country: United States
 
-summary: 'Pulkit will present his work on postmortem MRI tissue segmentation and corical reconstruction of the infant brain' 
+summary: 'Pulkit will present his work on postmortem MRI tissue segmentation and cortical reconstruction of the infant brain' 
 abstract: 
 
 # Talk start and end times.
@@ -56,4 +56,4 @@ projects:
 share: false
 ---
 
-Twin Harbors is a partnership between organizations in Houston and Seattle focused on ending sudden, unexplained death. We connect researchers, practitioners, and community leaders to share tools, data, and stories that turn ideas into impact.
+[Twin Harbors](https://twinharbors.org/) is a partnership between organizations in Houston and Seattle focused on ending sudden, unexplained death. We connect researchers, practitioners, and community leaders to share tools, data, and stories that turn ideas into impact.
