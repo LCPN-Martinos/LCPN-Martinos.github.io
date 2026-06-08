@@ -9,6 +9,8 @@ last_name: Khandelwal
 # Username (this should match the folder name)
 authors:
   - pkhandelwal
+
+paper_author_aliases:
   - 'Pulkit Khandelwal'
   - 'Khandelwal, Pulkit'
 
