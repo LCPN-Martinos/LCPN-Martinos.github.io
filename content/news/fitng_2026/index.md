@@ -12,7 +12,7 @@ location: Panama City, Panama
 #   postcode: '94305'
 #   country: United States
 
-summary: ' ' 
+summary: '[Pulkit Khandelwal](/author/pulkit-khandelwal/) receives one of the 2026 FIT’NG Young Investigator Awards!' 
 abstract: 
 
 # Talk start and end times.
@@ -56,6 +56,12 @@ projects:
 share: false
 ---
 
-Join us for the [FIT’NG 2026 Annual Conference](https://fitng.org/2026-conference/), taking place July 10-11 at the Hotel El Panama in Panama City. This two-day meeting will bring together researchers and clinicians from around the world to share the latest advances in fetal, infant, and toddler neuroimaging.
+Join us at the [FIT’NG 2026 Annual Conference](https://fitng.org/2026-conference/)!
+ 
+Our group will be presenting the below:<br>
 
-The program will feature a keynote lecture, symposia, oral presentations, flash talks, and poster sessions highlighting innovative science across our community. Attendees will have the chance to build meaningful connections and be part of a welcoming community, all set against the backdrop of one of Latin America’s most vibrant cities.
+"High-resolution multi-modal postmortem MRI of the human infant brain: Methodological developments for tissue segmentation, cortical reconstruction and anatomical parcellation" (poster)<br>
+
+"Robust infant brain MRI segmentation on clinical datasets" (poster + flash talk)<br>
+
+"Comparison of automated brain morphometry from low-field and high-field MRI acquisitions in South African neonates and 6-year-old children" (poster)<br>
