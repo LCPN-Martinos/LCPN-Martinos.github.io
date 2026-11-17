@@ -12,9 +12,12 @@ authors:
 
 paper_author_aliases:
   - 'Zöllei L'
+  - 'Zöllei'
   - 'Zollei L'
   - 'Z{\"o}llei, L.'
-  - 'Z{\"o}llei, Lilla'
+  - 'Z{\"o}llei'
+  - 'Lilla Zöllei'
+  - ' and Z{\"o}llei, Lilla'
   - 'Fetal and Infant and and Toddler Neuroimaging Group'
 
 # Is this the primary user of the site?
