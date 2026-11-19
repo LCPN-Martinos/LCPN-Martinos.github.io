@@ -36,7 +36,7 @@ sections:
         - [Adrian Dalca](https://www.mit.edu/~adalca/)
         - [Bruce Fischl](https://www.martinos.org/investigator/bruce-fischl/)
         - [Melanie Ganz-Benjaminsen](https://sites.google.com/view/melanieganz/home)
-        - [Malte Hoffmann](https://martinos.org/malte/)
+        - [Malte Hoffmann](https://malte.cz/)
         - [Camilo Enrique Jaimes Cobos](https://connects.catalyst.harvard.edu/Profiles/display/Person/118861)
         - [Georg Langs](https://radiologie-nuklearmedizin.meduniwien.ac.at/unsere-abteilungen/computational-imaging-research-lab-cir/computational-imaging-research-lab-team/langs-georg/)
         - [Roxane Licandro](https://radiologie-nuklearmedizin.meduniwien.ac.at/en/unsere-abteilungen/computational-imaging-research-lab-cir/computational-imaging-research-lab-team/licandro-roxane/)
