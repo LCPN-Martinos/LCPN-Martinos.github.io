@@ -19,7 +19,7 @@ sections:
           # - Researchers
           # - Grad Students
           # - Administration
-          # - Visitors
+          - Visitors
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -56,6 +56,7 @@ sections:
         - [Maddy Wyburd](https://researchprofiles.ku.dk/en/persons/madeleine-wyburd/)
         
         ### Alumni
+        - Nathan Ngo
         - Renfei Liu \- Postdoctoral Fellow (2023 \- 2025); Subsequently: Postdoctoral Fellow at MGB NeuroAI Center 
         - Areej Sayeed  \- Research Assistant (2023 \- 2025); Subsequently: MS Candidate in Neuroscience at Northwestern 
         - William Kelley \- Research Technician (2022 \- 2024); Subsequently: Data Analyst with Dr. Diana Rosas, MGH
