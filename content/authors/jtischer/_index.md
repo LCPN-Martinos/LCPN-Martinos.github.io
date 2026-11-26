@@ -16,22 +16,30 @@ paper_author_aliases:
 superuser: false
 
 # Role/position
-role: Post-Doctoral Researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of British Columbia
+  - name: Medical University of Vienna
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 interests:
-  # - Neurosurgery
+  - Neuroimaging
+  - Image registration
+  - Multimodal representation learning
 
 education:
-  # courses:
-
+  courses: 
+    - course: PhD Medical Physics
+      institution: Meducal University of Vienna
+      year: current
+    - course: M.Sc Biomedical Engineering
+      institution: TU Wien
+    - course: B.Sc Electrical Engineering and Information Technology
+      institution: Karlsruhe Institute of Technology (KIT)
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -39,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cschaurich@mgh.harvard.edu'
+    link: 'mailto:jtischer@mgh.harvard.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -84,8 +92,7 @@ sections:
   #     columns: '1'
 ---
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue ex mi, id porta magna efficitur a. Sed iaculis justo non faucibus convallis. Sed vehicula dignissim erat sed vehicula. Sed et bibendum erat. Nam pretium, mauris ut accumsan vestibulum, risus sapien accumsan ante, ut laoreet quam odio in lectus. Cras quis orci vitae augue condimentum egestas vel nec risus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-Sed a sagittis justo. Nunc at nunc eget diam maximus mattis quis et augue. Donec vitae luctus sapien. Sed condimentum mattis nisi sed gravida. Aenean placerat arcu quis lacus facilisis sollicitudin. Nam venenatis consequat ligula, eu gravida lacus. Nulla mollis sem ac est eleifend, nec lacinia quam auctor. Morbi at ex laoreet, rhoncus nisl at, efficitur tellus. Maecenas sit amet suscipit erat. Aenean tristique tortor non urna luctus, nec bibendum nibh ornare. -->
+Johannes Tischer joins the lab as a visiting PhD student to work on fusion algorithms for in vivo and postmortem MRI of the fetal brain. His work investigates the substantial differences between these complementary acquisitions. As postmortem MRI is increasingly used as an alternative to conventional autopsy, understanding how it relates to in vivo imaging is of growing interest.
+He is a PhD student in the Early Life and Image Analysis (ELIA) group at the Medical University of Vienna, where his research focuses on combining different imaging modalities, such as MRI and ultrasound, to study the developing brain.
 
 
