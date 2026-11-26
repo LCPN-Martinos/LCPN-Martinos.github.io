@@ -13,6 +13,10 @@ authors:
 paper_author_aliases:
   - Schaurich, Cristina
   - Cristina Schaurich
+  - Schaurich CG
+  - Cristina Goes Schaurich
+  - C. G. Schaurich
+  - Cristina Góes Schaurich
 
 # Is this the primary user of the site?
 superuser: false
